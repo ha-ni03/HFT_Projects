@@ -1,2 +1,2 @@
 # HFT_Projects
-Assignments, Exercises and Projects during the Master Studies Software Technology
+Work related to practical Projects during the Master Studies Software Technology
